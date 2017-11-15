@@ -1,2 +1,3 @@
 # FIJI
-Entertainment Content Organizer
+Entertainment Content Organizer.
+Follows Waterfall Software Development Life-Cycle
